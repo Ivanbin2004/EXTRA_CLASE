@@ -1,0 +1,10 @@
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\bin\Debug\CONVERSOR DE MONEDA.exe.config
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\bin\Debug\CONVERSOR DE MONEDA.exe
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\bin\Debug\CONVERSOR DE MONEDA.pdb
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR DE MONEDA.csproj.AssemblyReference.cache
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR_DE_MONEDA.Form1.resources
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR_DE_MONEDA.Properties.Resources.resources
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR DE MONEDA.csproj.GenerateResource.cache
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR DE MONEDA.csproj.CoreCompileInputs.cache
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR DE MONEDA.exe
+C:\Users\50247\source\repos\CONVERSOR DE MONEDA\obj\Debug\CONVERSOR DE MONEDA.pdb
